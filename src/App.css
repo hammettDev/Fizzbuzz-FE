@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.fizz {
+  color: blue;
+  transition-duration: .25s;
+}
+
+.buzz {
+  color: yellow;
+  transition-duration: .25s;
+}
+
+.fizzbuzz {
+  color: cyan;
+  transition-duration: .25s;
+}
